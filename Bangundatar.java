@@ -76,8 +76,7 @@ public double p_panjang(double p, double l)
   Bangundatar bd = new Bangundatar();
   System.out.println(bd.persegi(10));
   System.out.println(bd.segitiga(3, 15));
-  System.out.println(bd.p_panjang(5, 6));
-  System.out.println(bd.lingkaran(3, 3.14));
+  
   
 }
 }
